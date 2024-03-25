@@ -23,9 +23,7 @@ El contenido del repositorio incluye:
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error en los ejercicios o tienes sugerencias para mejorarlos, no dudes en abrir un issue o enviar un pull request. Tu ayuda es apreciada y contribuirá a mejorar la calidad de este repositorio.
 
-## Contacto
 
-Si tienes alguna pregunta o comentario sobre este repositorio, no dudes en contactarme. Puedes encontrarme en GitHub o enviarme un correo electrónico a [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com).
 
-¡Gracias por visitar este repositorio y espero que encuentres útiles los ejercicios aquí presentados!
+
 
