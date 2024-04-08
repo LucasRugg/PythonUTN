@@ -5,7 +5,7 @@
 
 ## Estructura del Repositorio
 
-El repositorio está organizado en archivos que corresponden a diferentesejercicios de la materia. 
+El repositorio está organizado en archivos que corresponden a diferentes unidades de la materia. 
 
 ## Objetivo
 
