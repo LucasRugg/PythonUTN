@@ -41,7 +41,7 @@ while(opcion != 4):
         for empleado in empleadosOrdenados:
             
             print(empleado["nombre"]," - ", empleado["legajo"], " -  Antiguedad ", empleado["antiguedad"]," meses")
-            print("Cursos : ",empleado["cursosRealizados"])
+            print("Cursos :",empleado["cursosRealizados"])
             print("Cantidad de cursos: ", len(empleado["cursosRealizados"]))
             if modulo1.validar_estandar_conocimiento(len(empleado["cursosRealizados"]), empleado["antiguedad"]) == True:
                 print("Cumple con el estandar")
